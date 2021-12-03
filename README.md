@@ -21,8 +21,14 @@ Acabo de iniciar o módulo de back-end onde iniciamos o aprendizado de Docker e 
 <img alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 
+### Contato
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jarana-2020)](https://github.com/jarana-2020)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/julio-cesar-arana)]( www.linkedin.com/in/julio-cesar-arana)
+<a href="mailto:julioaranabr@yahoo.com.br">
+  <img align="left" alt="email" width="30px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" style="max-width: 100%;">
+</a>
+                                                                                                                           
 
 - Obrigado por visitar.
 
