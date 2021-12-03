@@ -8,8 +8,9 @@
 
 ## Sobre mim
 
-Sempre fui apaixonado por Tecnologia. Atualmente estou em transição de carreira em busca de uma oportunidade como Desenvolvedor Web Jr.
-Atualmente estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.
+Atualmente estudo Desenvolvimento Web na Trybe, conclui o módulo de front-end onde tivemos aprendizado de HTML, CSS, JAVASCRIPT, REACT.
+Desenvolvi projetos fazendo uso de Redux, React Router, Context, Hooks e requisições a API.
+Acabo de iniciar o módulo de back-end onde iniciamos o aprendizado de Docker e Mysql.
 
 ### Linguagens
 
